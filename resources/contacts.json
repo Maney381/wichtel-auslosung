@@ -1,0 +1,16 @@
+{
+    "contacts": [
+        {
+            "name": "Contact_1",
+            "email": "Contact_1@some_mail.com"
+        },
+        {
+            "name": "Contact_2",
+            "email": "Contact_3@some_mail.com"
+        },
+        {
+            "name": "Contact_3",
+            "email": "Contact_3@some_mail.com"
+        },
+    ]
+}
