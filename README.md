@@ -25,7 +25,7 @@ This project helps manage a **Secret Santa (Wichteln)** event by randomly assign
    ````
 
 2. (Optional) If you need to change the subject or body of the email, you can modify the `email_config.py` file.
-
+3. (Optional) You can uplaod an photo (.jpg) into the resources folder, which will be handled as an attachment to the email.
 ## Usage
 
 1. Update the `contacts.json` file with the names and email addresses of your participants.

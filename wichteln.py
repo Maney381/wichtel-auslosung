@@ -30,7 +30,7 @@ email_handler.connect()
 for index, contact in enumerate(contacts):
     wichtel_contact = shuffled_contacts[index]
 
-    # Create and send the email
+    # Create the email
     recipient_name = contact['name']
     recipient_email = contact['email']
 

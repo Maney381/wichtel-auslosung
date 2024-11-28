@@ -7,8 +7,8 @@ def get_body(recipient_name, other_name):
             <p>Hallo <strong>{recipient_name}</strong>,</p>
             <p>das Los wurde gezogen! Dein Wichtelpartner ist: <strong>{other_name}</strong>.</p>
             <p>Ho Ho Ho!!</p>
-            <p>Ich freue mich auf die Weihnchtsfeier,<br>
-            der <em>Weihnachtsmann</em></p>
+            <p>Bis Weihnachten,<br>
+            der <em>Weihnachtsmann/em></p>
         </body>
     </html>
     """
